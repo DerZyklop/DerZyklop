@@ -4,4 +4,4 @@
 - 🌱 I’m currently working with Typescript and Angular
 - 👯 I’m looking to collaborate on a open-source projects that somehow supports anti-fashists
 - 💬 Ask me about my hometown Gießen
-- 📫 How to reach me: <link href="https://mas.to/@zyklop" rel="me">
+- 📫 How to reach me: <a href="https://mas.to/@zyklop" rel="me">
